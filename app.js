@@ -14,7 +14,7 @@ app.use(express.static("public"));
 
 // Mongoose
 mongoose.connect(
-    "mongodb+srv://admin-sandro:setadr12@cluster0.mvedc.mongodb.net/todolistDB",
+    "A DEFINIR",
     {
         useNewUrlParser: true,
         useUnifiedTopology: true,
